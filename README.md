@@ -41,8 +41,8 @@ while True:
 
 ```
 ## OUPUT
-![image](https://github.com/Monishofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/149455421/a82c3a8f-00af-4347-b583-e6fe8b866252)
-![image](https://github.com/Monishofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/149455421/150d1c80-9c14-4217-a7f4-e66f0fdc6230)
+![Screenshot 2024-04-26 162750](https://github.com/Monishofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/149455421/9eba2af1-b602-47ee-9a06-2e1a9fecb3f6)
 
+![Screenshot 2024-04-26 161821](https://github.com/Monishofficial/2b_SLIDING_WINDOW_PROTOCOL/assets/149455421/1d31cd05-888a-47ae-b075-a1f9d18147ac)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
